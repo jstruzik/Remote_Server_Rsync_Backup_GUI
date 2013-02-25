@@ -1,0 +1,168 @@
+#OIT Repair Center Exclude File Builder
+#The intention of this file is to have an easy to read list
+#of excluded objects in the backup script/GUI. Folders and 
+#extensions are case insensitve while files are case SeNsItIvE.
+#If edited, please keep system alphabetical order.
+#####Folders#####
+.spotlight-v100
+.trashes
+.vol
+automount
+bin
+boot
+cache
+cores
+default service
+dev
+developer
+etc
+i386
+google/update
+lib
+library
+local services
+microsoft/windows
+microsoft/internet/explorer
+net
+nethood
+network
+network service
+oem
+opt
+perflogs
+printhood
+private
+proc
+program files
+program files (x86)
+qoobox
+quarantine
+recovery
+recycled
+recycler
+sbin
+scan
+sendto
+start menu
+sys
+system
+system folder
+system volume information
+temp
+temporary internet files
+temporary internet items
+thevolumesettingsfolder
+tmp
+userdata
+users/public
+users/default
+usr
+var
+volumes
+windows
+#####Extensions#####
+ade
+adp
+app
+asa
+asp
+asx
+bak
+bas
+bat
+bin
+cab
+cache
+cer
+chm
+cmd
+com
+cpl
+crt
+csh
+dat
+dsk
+dll
+exe
+fxp
+gfo
+gts
+hlp
+hta
+htr
+img
+inf
+ins
+isp
+its
+jse
+ksh
+lnk
+mad
+maf
+mag
+mam
+maq
+mar
+mas
+mat
+mau
+mav
+maw
+mda
+mdb
+mde
+mdt
+mdw
+mdz
+mht
+msc
+msi
+msp
+mst
+nes
+ocx
+ops
+pcd
+pck
+pif
+pkg
+prf
+prg
+reg
+scf
+scn
+scr
+sct
+shb
+shs
+swp
+sys
+tmp
+url
+vb
+vbe
+vbs
+vbx
+vsmacros
+vss
+vst
+vsw
+ws
+wsc
+wsf
+wsh
+xsl
+v2i
+#####Files#####
+.DS_Store
+.keep
+.vol
+autoexec.bat
+Desktop DB
+Desktop DF
+desktop.ini
+ntuser.ini
+ntdetect.com
+ntldr
+thumbs.db
